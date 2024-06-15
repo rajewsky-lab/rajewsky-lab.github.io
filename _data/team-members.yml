@@ -1,0 +1,20 @@
+- name: Nikolaus Rajewsky
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_inline_small_mdc_wide_2x/private/2021-11/Prof.%20Nikolaus%20Rajewsky_credits%20Pablo%20Castagnola.jpg?h=58c09f32&itok=hcCgugZi
+  link: 
+  description: Group Leader
+- name: Alex Tschernycheff
+  link:
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/migrated_files/fiona/alex_200x133.jpg?itok=VKSCThHE
+  description: Office of the Rajewsky Lab
+- name: Margareta Herzog
+  link:
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_inline_small_mdc_wide_2x/private/2018-04/Maggy.jpg?h=3fa9d8f0&itok=tYsac7rn
+  description: Lab Manager
+- name: team member 4
+  link:
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: 
+- name: Salah Ayoub
+  link:
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/2018-06/salah_0.jpg?itok=1ajRrJ0t
+  description: Technician

@@ -1,0 +1,18 @@
+<div class="columns is-centered is-multiline is-mobile">
+  {% for team-member in site.data.team-members %}
+    <div class="column has-text-centered is-paddingless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+      id="team-member-card">
+      <a href="{{team-member.link}}" target="_blank">
+      <div class="has-background-black card">
+        <figure class="image is-4by5" style="background-image: url({{team-member.image}});">
+        <!-- <div class="card-content"> -->
+          <div class="overlay">
+            <h2 class="title has-text-white is-size-4">{{ team-member.name }}</h2>
+            <h4 class="has-text-white has-text-weight-light content">{{ team-member.description | truncate: 80}}</h4>
+          </div>
+        </figure>
+      </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
