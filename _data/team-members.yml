@@ -1,20 +1,92 @@
 - name: Nikolaus Rajewsky
   image: https://www.mdc-berlin.de/system/files/styles/mdc_inline_small_mdc_wide_2x/private/2021-11/Prof.%20Nikolaus%20Rajewsky_credits%20Pablo%20Castagnola.jpg?h=58c09f32&itok=hcCgugZi
-  link: 
+  link: mailto:rajewsky@mdc-berlin.de
   description: Group Leader
 - name: Alex Tschernycheff
-  link:
+  link: mailto:tschernycheff@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/migrated_files/fiona/alex_200x133.jpg?itok=VKSCThHE
   description: Office of the Rajewsky Lab
 - name: Margareta Herzog
-  link:
+  link: mailto:margareta.herzog@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_inline_small_mdc_wide_2x/private/2018-04/Maggy.jpg?h=3fa9d8f0&itok=tYsac7rn
   description: Lab Manager
-- name: team member 4
-  link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: 
+- name: Denise Aigner
+  link: mailto:denise.aigner@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Ph.D. Student
 - name: Salah Ayoub
-  link:
+  link: mailto:salah.ayoub@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/2018-06/salah_0.jpg?itok=1ajRrJ0t
-  description: Technician
+  description: Technical Assistant
+- name: Svea Ansgard Beier
+  link: mailto:svea.beier@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Ph.D. Student
+- name: Poojashree Bhaskar
+  link: mailto:poojashree.bhaskar@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Ph.D. Student
+- name: Anastasiya Boltengagen
+  link: mailto:anastasiya.boltengagen@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Technical Assistant
+- name: Cledi Cerda Jara
+  link: mailto:cledi.cerdajara@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Postdoctoral Researcher
+- name: Lisa Emmenegger
+  link: mailto:lisa.emmenegger@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_inline_small_mdc_wide_2x/private/2020-04/profile_lisa.jpg?h=1f7c1d57&itok=Pg-6UUSq
+  description: Ph.D. Student
+- name: Marvin Jens
+  link: mailto:marvin.jens@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Postdoctoral Researcher
+- name: Nikos Karaiskos
+  link: https://nukappa.github.io/
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Senior Scientist
+- name: Daniel León Perinán
+  link: mailto:daniel.leonperinan@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Ph.D. Student
+- name: Paula Leupold
+  link: mailto:paula.leupold@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Ph.D. Student
+- name: Kamil Lisek
+  link: mailto:kamil.lisek@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Postdoctoral Researcher
+- name: Tancredi Massimo Pentimalli
+  link: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Ph.D. Student
+- name: Lena Marie Schott
+  link: 
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Technical Assistant
+- name: Leon Strenger
+  link: mailto:leon.strenger@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Ph.D. Student
+- name: Ilan Theurillat
+  link: mailto:Ilan.Theurillat@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Postdoctoral Researcher
+- name: Gwendolin Thomas
+  link: mailto:gwendolin.thomas@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/2018-07/Gwen.jpg?itok=reRGwJJm
+  description: Technical Assistant
+- name: Sofia Trocchianesi
+  link: mailto:sofia.trocchianesi@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Postdoctoral Researcher
+- name: Miriam Wandres
+  link: mailto:miriam.wandres@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_overlay_mdc_wide_1x/private/2020-03/Miriam.jpg?itok=fHz83oUn
+  description: Ph.D. Student
+- name: Mohammad Zardbani
+  link: mailto:mohammad.zardbani@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  description: Postdoctoral Researcher
