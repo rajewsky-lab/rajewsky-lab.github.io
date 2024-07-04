@@ -30,6 +30,10 @@
   link: mailto:anastasiya.boltengagen@mdc-berlin.de
   image: assets/images/team_members/ana.png
   description: Technical Assistant
+- name: Giuliana Dube
+  link: mailto:giuliana.dube@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Technical Assistant
 - name: Cledi Cerda Jara
   link: mailto:cledi.cerdajara@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
@@ -62,8 +66,12 @@
   link: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: Ph.D. Student
+- name: Nicolas Morando
+  link: mailto:nicolas.morando@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  description: Ph.D. Student
 - name: Lena Marie Schott
-  link: 
+  link: mailto:marie.schott@mdc-berlin.de
   image: assets/images/team_members/marie.jpg
   description: Technical Assistant
 - name: Leon Strenger
