@@ -34,10 +34,14 @@
           <figure class="image is-4by5" style="background-image: url({{team-member.image}});">
           <!-- <div class="card-content"> -->
             <div class="overlay">
-              <h2 class="title has-text-white is-size-4">{{ team-member.name }}</h2>
-              <h4 class="has-text-white has-text-weight-light content">{{ team-member.description | truncate: 80}}</h4>
+              <h4 class="title has-text-white is-size-6">{{ team-member.description }}</h2>
             </div>
           </figure>
+          <div style="color: white;">
+          {{ team-member.name }}
+          </br>
+          {{ team-member.position }}
+          </div>
         </div>
         </a>
       </div>

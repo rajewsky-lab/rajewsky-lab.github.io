@@ -1,100 +1,125 @@
 - name: Nikolaus Rajewsky
   image: assets/images/team_members/nikolaus.jpg
   link: mailto:rajewsky@mdc-berlin.de
-  description: Group Leader
+  description: 
+  position: Group Leader
 - name: Alex Tschernycheff
   link: mailto:tschernycheff@mdc-berlin.de
   image: assets/images/team_members/alex.jpg
-  description: Office of the Rajewsky Lab
+  description: 
+  position: Rajewsky Lab Office
 - name: Margareta Herzog
   link: mailto:margareta.herzog@mdc-berlin.de
   image: assets/images/team_members/maggy.jpg
-  description: Lab Manager
+  description: 
+  position: Lab Manager
 - name: Denise Aigner
   link: mailto:denise.aigner@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Salah Ayoub
   link: mailto:salah.ayoub@mdc-berlin.de
   image: assets/images/team_members/salah.jpg
-  description: Technical Assistant
+  description: 
+  position: Technical Assistant
 - name: Svea Ansgard Beier
   link: mailto:svea.beier@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Poojashree Bhaskar
   link: mailto:poojashree.bhaskar@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Anastasiya Boltengagen
   link: mailto:anastasiya.boltengagen@mdc-berlin.de
   image: assets/images/team_members/ana.png
-  description: Technical Assistant
+  description: 
+  position: Technical Assistant
 - name: Giuliana Dube
   link: mailto:giuliana.dube@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Technical Assistant
+  description: 
+  position: Technical Assistant
 - name: Cledi Cerda Jara
   link: mailto:cledi.cerdajara@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Postdoctoral Researcher
+  description: 
+  position: Postdoctoral Researcher
 - name: Lisa Emmenegger
   link: mailto:lisa.emmenegger@mdc-berlin.de
   image: assets/images/team_members/lisa.jpg
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Marvin Jens
   link: mailto:marvin.jens@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Postdoctoral Researcher
+  description: 
+  position: Postdoctoral Researcher
 - name: Nikos Karaiskos
   link: https://nukappa.github.io/
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Senior Scientist
+  description: scRNA-seq, Spatial Transcriptomics, Methods Development
+  position: Senior Scientist
 - name: Daniel León Perinán
   link: mailto:daniel.leonperinan@mdc-berlin.de
   image: assets/images/team_members/daniel.jpg
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Paula Leupold
   link: mailto:paula.leupold@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Kamil Lisek
   link: mailto:kamil.lisek@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Postdoctoral Researcher
-- name: Tancredi Massimo Pentimalli
+  description: 
+  position: Postdoctoral Researcher
+- name: Tancredi Pentimalli
   link: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Nicolas Morando
   link: mailto:nicolas.morando@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Lena Marie Schott
   link: mailto:marie.schott@mdc-berlin.de
   image: assets/images/team_members/marie.jpg
-  description: Technical Assistant
+  description: 
+  position: Technical Assistant
 - name: Leon Strenger
   link: mailto:leon.strenger@mdc-berlin.de
   image: /assets/images/team_members/leon.jpg
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Ilan Theurillat
   link: mailto:Ilan.Theurillat@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Postdoctoral Researcher
+  description: 
+  position: Postdoctoral Researcher
 - name: Gwendolin Thomas
   link: mailto:gwendolin.thomas@mdc-berlin.de
   image: assets/images/team_members/gwen.jpg
-  description: Technical Assistant
+  description: 
+  position: Technical Assistant
 - name: Sofia Trocchianesi
   link: mailto:sofia.trocchianesi@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  description: Postdoctoral Researcher
+  description: 
+  position: Postdoctoral Researcher
 - name: Miriam Wandres
   link: mailto:miriam.wandres@mdc-berlin.de
   image: assets/images/team_members/miriam.jpg
-  description: Ph.D. Student
+  description: 
+  position: Ph.D. Student
 - name: Mohammad Zardbani
   link: mailto:mohammad.zardbani@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Postdoctoral Researcher
+  description: 
+  position: Postdoctoral Researcher
