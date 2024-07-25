@@ -1,12 +1,12 @@
 ---
 title: Open-ST is published!
 layout: post
-post-image: "/assets/images/openst_3d_blocks.png"
+post-image: "/assets/images/news/openst_3d_blocks.png"
 description: Our paper on presenting a new spatial transcriptomics platform is now published!
 tags:
 - publication
 - spatial transcriptomics
-- open-st
+- openst
 - methods development
 ---
 

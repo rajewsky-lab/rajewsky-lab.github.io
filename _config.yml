@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: N. Rajewsky Lab
+title: N. Rajewsky Lab | Max Delbrück Center
 # Description of the Site
 description: Systems Biology of Gene Regulatory Elements
 # URL of Image of the Site 
@@ -58,6 +58,12 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+
+# Added for generating all team member pages
+collections:
+  team_members:
+    output: true
+    permalink: "/team/:name/"
 
 # Permalink
 permalink: "blog/:title"

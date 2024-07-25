@@ -1,0 +1,47 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    {% include head.html %}
+</head>
+<div style="background-color: rgb(246, 246, 246);">
+<body>
+    {% include navbar.html %}
+
+    <!--Main Section-->
+    <section class="hero is-fullheight" id="team">
+        <div class="hero-body">
+            <div class="columns">
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                </div>
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                    <figure class="image is-4by5" style="background-image: url('{{ page.team_member.image | relative_url }}');">
+                    </figure>
+                </div>
+                <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                    <h1 style="font-size: 1.5em; font-weight: bold;">{{ page.team_member.name }}</h1>
+                    <h1 style="font-size: 1em">{{ page.team_member.position }}</h1>
+                    </br>
+                    <h4 style="font-size: 1.2em">{{ page.team_member.keywords }}</h4>
+                </br>
+                    <p>{{ page.team_member.description }}</p>
+                </div>
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                    </div>
+            </div>
+        </div>
+    </section>
+    </div>
+
+    <!--Footer-->
+    {% include footer.html %}
+</body>
+</div>
+
+</html>
+
+

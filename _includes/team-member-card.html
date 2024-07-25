@@ -10,18 +10,18 @@
   <div class="flag-container">
     Countries currently represented in our lab:
   </br>
-  <img src="assets/images/flags/algeria.svg">
-  <img src="assets/images/flags/argentina.svg">
-  <img src="assets/images/flags/chile.svg">
-  <img src="assets/images/flags/france.svg">
-    <img src="assets/images/flags/germany.svg">
-    <img src="assets/images/flags/greece.svg">
-    <img src="assets/images/flags/india.svg">
-    <img src="assets/images/flags/italy.svg">
-    <img src="assets/images/flags/Kazakhstan.svg">
-    <img src="assets/images/flags/poland.svg">
-    <img src="assets/images/flags/spain.svg">
-    <img src="assets/images/flags/usa.svg">
+  <img src="/assets/images/flags/algeria.svg">
+  <img src="/assets/images/flags/argentina.svg">
+  <img src="/assets/images/flags/chile.svg">
+  <img src="/assets/images/flags/france.svg">
+    <img src="/assets/images/flags/germany.svg">
+    <img src="/assets/images/flags/greece.svg">
+    <img src="/assets/images/flags/india.svg">
+    <img src="/assets/images/flags/italy.svg">
+    <img src="/assets/images/flags/Kazakhstan.svg">
+    <img src="/assets/images/flags/poland.svg">
+    <img src="/assets/images/flags/spain.svg">
+    <img src="/assets/images/flags/usa.svg">
     </br>
   </br>
   </div>
@@ -29,12 +29,12 @@
     {% for team-member in site.data.team-members %}
       <div class="column has-text-centered is-paddingless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
         id="team-member-card">
-        <a href="{{team-member.link}}" target="_blank">
+        <a href="{{ '/team/' | append: team-member.name | downcase | replace: ' ', '-' | append: '.html' }}">
         <div class="has-background-black card">
           <figure class="image is-4by5" style="background-image: url({{team-member.image}});">
           <!-- <div class="card-content"> -->
             <div class="overlay">
-              <h4 class="title has-text-white is-size-6">{{ team-member.description }}</h2>
+              <h4 class="title has-text-white is-size-6">{{ team-member.keywords }}</h2>
             </div>
           </figure>
           <div style="color: white;">
