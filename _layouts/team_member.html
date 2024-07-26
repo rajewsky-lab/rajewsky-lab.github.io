@@ -21,6 +21,33 @@ layout: compress
                 <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
                     <figure class="image is-4by5" style="background-image: url('{{ page.team_member.image | relative_url }}');">
                     </figure>
+                </br>
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <a href="{{ page.team_member.email }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
+                        <i class="fa fa-envelope fa-3x"></i>
+                    </a>
+
+                    {% assign twitter_url = page.team_member.social_media.twitter %}
+                    {% if twitter_url and twitter_url != "" %}
+                    <a href="{{ twitter_url }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
+                      <i class="fab fa-twitter fa-3x"></i>
+                    </a>
+                    {% endif %}
+
+                    {% assign linkedin_url = page.team_member.social_media.linkedin %}
+                    {% if linkedin_url and linkedin_url != "" %}
+                    <a href="{{ linkedin_url }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
+                      <i class="fab fa-linkedin fa-3x"></i>
+                    </a>
+                    {% endif %}
+
+                    {% assign github_url = page.team_member.social_media.github %}
+                    {% if github_url and github_url != "" %}
+                    <a href="{{ github_url }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
+                        <i class="fab fa-github fa-3x"></i>
+                    </a>
+                    {% endif %}
+                </div>
                 </div>
                 <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
                     <h1 style="font-size: 1.5em; font-weight: bold;">{{ page.team_member.name }}</h1>

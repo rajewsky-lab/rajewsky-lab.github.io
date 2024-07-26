@@ -1,168 +1,154 @@
+
 - name: Nikolaus Rajewsky
   image: /assets/images/team_members/nikolaus.jpg
   email: mailto:rajewsky@mdc-berlin.de
   keywords: 
   description: 
   position: Group Leader
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter: 
+    linkedin: 
+    github:
 - name: Alex Tschernycheff
   email: mailto:tschernycheff@mdc-berlin.de
   image: /assets/images/team_members/alex.jpg
   keywords: 
   description: 
   position: Rajewsky Lab Office
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Margareta Herzog
   email: mailto:margareta.herzog@mdc-berlin.de
   image: /assets/images/team_members/maggy.jpg
   keywords: 
   description: 
   position: Lab Manager
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Denise Aigner
   email: mailto:denise.aigner@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Salah Ayoub
   email: mailto:salah.ayoub@mdc-berlin.de
   image: /assets/images/team_members/salah.jpg
   keywords: 
   description: 
   position: Technical Assistant
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Svea Beier
   email: mailto:svea.beier@mdc-berlin.de
   image: /assets/images/team_members/svea.jpg
   keywords: Translational Research, Neuroblastoma, Melanoma, Triple Negative Breast Cancer
   description: My PhD focuses on applying high-resolution sequencing technologies to tumors like neuroblastoma and melanoma to understand their complex ecosystems. Tumors comprise diverse cell types and are influenced by the tumor microenvironment (TME), which impacts treatment resistance and metastasis. While single-cell RNA sequencing identifies cell populations, it lacks spatial context, which is addressed by high-resolution spatial transcriptomics. This approach allows us to study cellular interactions and malignant states within the TME, potentially leading to new biomarkers and therapeutic strategies. By investigating neuroblastoma and melanoma samples, our research aims to enhance understanding of the TME and improve treatment outcomes. 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin:
+    github:
 - name: Poojashree Bhaskar
   email: mailto:poojashree.bhaskar@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Anastasiya Boltengagen
   email: mailto:anastasiya.boltengagen@mdc-berlin.de
   image: /assets/images/team_members/ana.png
   keywords: 
   description: 
   position: Technical Assistant
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Giuliana Dube
   email: mailto:giuliana.dube@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Technical Assistant
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Cledi Cerda Jara
   email: mailto:cledi.cerdajara@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Lisa Emmenegger
   email: mailto:lisa.emmenegger@mdc-berlin.de
   image: /assets/images/team_members/lisa.jpg
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Marvin Jens
   email: mailto:marvin.jens@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   keywords: 
   description: 
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Nikos Karaiskos
-  email: https://nukappa.github.io/
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  email: mailto:nikolaos.karaiskos@mdc-berlin.de
+  image: /assets/images/team_members/nikos.jpg
   keywords: scRNA-seq, Spatial Transcriptomics, Methods Development
-  description: 
+  description:
   position: Senior Scientist
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter: "https://twitter.com/nu_karaiskos"
+    linkedin: "https://www.linkedin.com/in/nikos-karaiskos/" 
+    github: "https://github.com/nukappa"
 - name: Daniel León Perinán
   email: mailto:daniel.leonperinan@mdc-berlin.de
   image: /assets/images/team_members/daniel.jpg
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Paula Leupold
   email: mailto:paula.leupold@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Kamil Lisek
   email: mailto:kamil.lisek@mdc-berlin.de
   image: /assets/images/team_members/kamil.jpg
@@ -174,107 +160,97 @@
   (GEMM and PDX) and in vitro systems (3D organoids and co-cultures), where we apply modern 
   single-cell technologies developed in our lab."
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter: "https://twitter.com/KamiLisek"
+    linkedin: "https://www.linkedin.com/in/kamil-lisek-1ba3aa73/"
+    github:
 - name: Tancredi Pentimalli
   email: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Nicolas Morando
   email: mailto:nicolas.morando@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Lena Marie Schott
   email: mailto:marie.schott@mdc-berlin.de
   image: /assets/images/team_members/marie.jpg
   keywords: 
   description: 
   position: Technical Assistant
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Leon Strenger
   email: mailto:leon.strenger@mdc-berlin.de
   image: /assets/images/team_members/leon.jpg
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Ilan Theurillat
   email: mailto:Ilan.Theurillat@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Gwendolin Thomas
   email: mailto:gwendolin.thomas@mdc-berlin.de
   image: /assets/images/team_members/gwen.jpg
   keywords: 
   description: 
   position: Technical Assistant
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Sofia Trocchianesi
   email: mailto:sofia.trocchianesi@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Miriam Wandres
   email: mailto:miriam.wandres@mdc-berlin.de
   image: /assets/images/team_members/miriam.jpg
   keywords: 
   description: 
   position: Ph.D. Student
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: 
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Mohammad Zardbani
   email: mailto:mohammad.zardbani@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   keywords: 
   description: 
   position: Postdoctoral Researcher
-  social media:
-    - platform: Twitter
-      url: 
-    - platform: LinkedIn
-    - url: cher
+  social_media:
+    twitter:
+    linkedin:
+    github:
