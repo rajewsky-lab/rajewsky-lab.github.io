@@ -226,9 +226,14 @@
     github:
 - name: Sofia Trocchianesi
   email: mailto:sofia.trocchianesi@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
+  image: /assets/images/team_members/sofia.jpeg
+  keywords: Cancer Biology, Bacteria in Cancer, Methods Development
+  description: "I am a molecular cancer biologist at BIMSB. I’m studying the relationship between bacteria 
+  and cancer cells. I established 3D co-culture model between bacteria and breast cancer cells, 
+  particularly triple-negative breast cancer (TNBC). My purpose is to understand how bacteria can 
+  promote tumor progression and develop a novel bacteria targeted therapy. Moreover, I’m 
+  developing a spatial transcriptomic method to analyse both bacteria and host transcriptomic, 
+  improving the already developed spatial method openST in our lab."
   position: Postdoctoral Researcher
   social_media:
     twitter:
