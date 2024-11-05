@@ -53,6 +53,16 @@
     twitter:
     linkedin: 
     github:
+- name: Florian Bartsch
+  email: mailto:florian.bartsch@mdc-berlin.de
+  image: /assets/images/team_members/florian.jpg
+  keywords: Computational Biology, scRNA-seq, Spatial Transcriptomics, Neuroblastoma
+  description: My PhD research focuses on applying computational biology techniques to analyze spatial transcriptomics and single-cell RNA sequencing data from neuroblastoma tumors. In collaboration with the Charité Pediatric Oncology Unit, we investigate tumor composition and dynamics, particularly within the tumor microenvironment (TME). Our aim is to understand how the TME remodels during relapse and to identify how these changes impact patient outcomes. By uncovering new biomarkers and therapeutic targets, we hope to gain valuable insights toward improving treatments for neuroblastoma.
+  position: Ph.D. Student
+  social_media:
+    twitter:
+    linkedin:
+    github:
 - name: Svea Beier
   email: mailto:svea.beier@mdc-berlin.de
   image: /assets/images/team_members/svea.jpg
@@ -102,6 +112,16 @@
     twitter:
     linkedin: 
     github:
+- name: Fabio Bordin
+  email: mailto:fabio.bordin@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description: 
+  position: Postdoctoral Researcher
+  social_media:
+    twitter:
+    linkedin: 
+    github:
 - name: Giuliana Dube
   email: mailto:giuliana.dube@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
@@ -146,6 +166,16 @@
   social_media:
     twitter:
     linkedin: 
+    github:
+- name: Hangxi Fu
+  email: mailto:hangxi.fu@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: Ph.D. Student
+  social_media:
+    twitter:
+    linkedin:
     github:
 - name: Marvin Jens
   email: mailto:marvin.jens@mdc-berlin.de
@@ -204,9 +234,9 @@
     github:
 - name: Tancredi Pentimalli
   email: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  keywords: 
-  description: 
+  image: /assets/images/team_members/tancredi.jpg
+  keywords: Single-cell & Spatial Transcriptomics, Tumor Microenvironment, Brain Organoids, Disease Mechanisms
+  description: During my medical studies, I realized the power of computational analyses and cutting-edge single cell technologies to understand disease mechanisms and identify novel therapeutic targets. Now, I am leveraging single cell and spatial transcriptomics data analysis to dissect cell-cell interactions in the tumor microenvironment and identify novel mechanisms of disease progression in TNBC and NSCLC. I love working in an interdisciplinary team, having stimulating discussions and travelling to learn from different perspectives.
   position: Ph.D. Student
   social_media:
     twitter:
@@ -228,6 +258,16 @@
   keywords: 
   description: 
   position: Technical Assistant
+  social_media:
+    twitter:
+    linkedin: 
+    github:
+- name: Flavia Scoyni
+  email: mailto:flavia.scoyni@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description: 
+  position: Postdoctoral Researcher
   social_media:
     twitter:
     linkedin: 
