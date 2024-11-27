@@ -169,8 +169,8 @@
     github:
 - name: Hangxi Fu
   email: mailto:hangxi.fu@mdc-berlin.de
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  keywords: 
+  image: /assets/images/team_members/hangxi.jpg
+  keywords: Computational Biology, Spatial Transcriptomics, Gene Expression Regulation, RNA Biology
   description: 
   position: Ph.D. Student
   social_media:

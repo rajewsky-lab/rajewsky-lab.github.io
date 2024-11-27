@@ -8,6 +8,9 @@ tags:
 - spatial transcriptomics
 - openst
 - methods development
+- virtual tissue block
+- lymph node
+- cancer
 ---
 
 We developed an inexpensive, do-it-yourself, high-resolution, and open source method to quantify gene expression directly in tissues (Marie Schott, Daniel León Perinán, Elena Splendiani <i>et al</i>. <a href="https://www.cell.com/cell/abstract/S0092-8674(24)00636-6">
