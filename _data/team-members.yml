@@ -114,9 +114,9 @@
     github:
 - name: Fabio Bordin
   email: mailto:fabio.bordin@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  image: /assets/images/team_members/fabio.jpg
   keywords: 
-  description: 
+  description: I am a molecular neurobiologist at BISMB, where my research focuses on understanding the molecular and cellular mechanisms underlying diseases that affect the nervous system, with a particular emphasis on cancer and neurodegenerative disorders. At BISMB, my current project investigates the toxic effects of nanoplastics on the nervous system, with a specific focus on their potential role in neurodegenerative disorders (Alzheimer’s disease). This work aims to elucidate how environmental pollutants, such as nanoplastics, contribute to the progression of neurological disorders. To tackle these complex research questions, we employ advanced experimental models to explore disease mechanisms and evaluate therapeutic interventions, including 3D cultures (brain organoids) and in vivo systems (Genetically Engineered Mouse Models), alongside cutting-edge single-cell technologies developed in our lab.
   position: Postdoctoral Researcher
   social_media:
     twitter:
@@ -128,16 +128,6 @@
   keywords: 
   description: 
   position: Technical Assistant
-  social_media:
-    twitter:
-    linkedin: 
-    github:
-- name: Matilde Ercolano
-  email: mailto:matilde.ercolano@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
-  position: M.Sc. Student
   social_media:
     twitter:
     linkedin: 
@@ -237,16 +227,6 @@
   image: /assets/images/team_members/tancredi.jpg
   keywords: Single-cell & Spatial Transcriptomics, Tumor Microenvironment, Brain Organoids, Disease Mechanisms
   description: During my medical studies, I realized the power of computational analyses and cutting-edge single cell technologies to understand disease mechanisms and identify novel therapeutic targets. Now, I am leveraging single cell and spatial transcriptomics data analysis to dissect cell-cell interactions in the tumor microenvironment and identify novel mechanisms of disease progression in TNBC and NSCLC. I love working in an interdisciplinary team, having stimulating discussions and travelling to learn from different perspectives.
-  position: Ph.D. Student
-  social_media:
-    twitter:
-    linkedin: 
-    github:
-- name: Nicolas Morando
-  email: mailto:nicolas.morando@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
   position: Ph.D. Student
   social_media:
     twitter:
