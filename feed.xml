@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-01-16T09:27:28+00:00</updated><id>/feed.xml</id><title type="html">N. Rajewsky Lab | Max Delbrück Center</title><subtitle>Systems Biology of Gene Regulatory Elements</subtitle><entry><title type="html">Publication alert: our current thoughts on spatial transcriptomics</title><link href="/blog/pathology-review" rel="alternate" type="text/html" title="Publication alert: our current thoughts on spatial transcriptomics" /><published>2024-10-31T00:00:00+00:00</published><updated>2024-10-31T00:00:00+00:00</updated><id>/blog/pathology-review</id><content type="html" xml:base="/blog/pathology-review"><![CDATA[<h2 id="challenges--opportunities-in-clinical-translation-of-high-resolution-spatial-transcriptomics-st">Challenges &amp; Opportunities in Clinical Translation of High-Resolution Spatial Transcriptomics (ST)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-28T08:45:05+00:00</updated><id>/feed.xml</id><title type="html">N. Rajewsky Lab | Max Delbrück Center</title><subtitle>Systems Biology of Gene Regulatory Elements</subtitle><entry><title type="html">Towards understanding tumors in 3D</title><link href="/blog/lung-stim-papers" rel="alternate" type="text/html" title="Towards understanding tumors in 3D" /><published>2025-04-25T00:00:00+00:00</published><updated>2025-04-25T00:00:00+00:00</updated><id>/blog/lung-stim-papers</id><content type="html" xml:base="/blog/lung-stim-papers"><![CDATA[<p>Understanding not just what cells are present in a tumor, but where they are located and how they interact with other cells around them – their cellular neighborhoods – can provide detailed insights that help doctors determine which treatments or therapies might be most effective for a specific patient.</p>
+
+<p>We collaborated with research groups from academia and industry to combine spatial transcriptomics in 3D and extracellular matrix imagining and gain unprecedented detail about the inner workings of an early-stage lung tumor. Our proof-of-concept study was published in <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00094-8"> Cell Systems</a>.</p>
+
+<p>Tumors are complex ecosystems where tumor cells live in close contact with the surrounding extracellular matrix. They interact with many other cell types. The data we can obtain now in tumor tissues from a patient are becoming so precise and comprehensive that we can computationally predict the molecular mechanisms which are driving phenotypes. This is new and fundamentally important for making personalized medicine a reality.</p>
+
+<h2 id="from-2d-to-3d">From 2D to 3D</h2>
+
+<p>Transcriptomics documents what RNA is being actively expressed in cells, which indicates the activities the cell is engaged in and reveals the cell types present in a sample. Spatial transcriptomics does this but for individual cells to build a 2D map. We got early access to the CosMx instrument from NanoString, which does this at extremely high resolution – 1,000 different RNA molecules can be detected at one time, compared to traditional methods that identify just a handful of molecule types at once. We analyzed 340,000 individual cells from the lung tumor, identifying 18 cell types.</p>
+
+<p>Our 3D analysis was powered by a new computational algorithm, STIM, which aligns datasets to reconstruct 3D virtual tissue blocks. We realized that spatial transcriptomics datasets can be modeled as images. Leveraging imaging techniques, STIM marries the fields of computer vision and spatial transcriptomics. For this, we worked closely with Stephan Preibisch (HHMI) to bring this collaborative effort to fruition. STIM is also published in <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00097-3">Cell Systems</a>.</p>
+
+<p>We further worked with the Systems Biology Imaging Platform to apply second harmonic generation, to map elastin and collagen in cellular neighborhoods, which in the lung are the main extracellular matrix constituents. Areas with more elastin were healthier, while those with more collagen surrounded the tumor cells, which indicates harmful tissue remodeling.</p>
+
+<div style="text-align: center;">
+<video width="640" height="360" controls="">
+<source src="https://www.mdc-berlin.de/system/files/2025-04/Bildschirmaufnahme%202025-04-22%20um%2016.28.35.mp4" type="video/mp4" />
+</video>
+<br />
+<p>
+Explore the dataset with our<a href="https://lung-3d-browser.mdc-berlin.de/"> 3D Browser</a>
+</p>
+</div>
+
+<p><br /></p>
+
+<p>So not only do we know what cell types are present, we know how they are grouped with their neighbors, and we could begin to understand how tumor cells rewire non-malignant cells at the tumor surface to support tumor growth.</p>
+
+<h2 id="cells-talk">Cells talk</h2>
+<p>Our analysis did not stop there. We were able to understand precise phenotypes – for example, if fibroblasts, which form connective tissue, were activated and remodeling the tissue or not. We were also able to listen in on cell-to-cell communication and determine how tumor cells were blocking immune cells from entering the tumor.</p>
+
+<p>This immune suppression mechanism is well-known and suggests immunotherapy would help. Immune checkpoint inhibitors would reverse the suppression and then you have this army of immune cells that are already in position ready to attack. It was exciting to see how our approach identified this dynamic and could help direct a personalized immunotherapy plan.</p>
+
+<div style="text-align: center;">
+<img src="/assets/images/news/lung-stim-1.jpg" alt="Tumor core surrounded by immune niches in an early-stage non-small cell lung cancer patient" width="600" height="auto" />
+</div>
+
+<p>Notably, these key insights were only possible with data in 3D – in 2D it was impossible to distinguish between the tumor and other immune cells embedded in the tumor surface.</p>
+
+<h2 id="pathology-20">Pathology 2.0</h2>
+<p>The beauty of this approach is that, while very high-tech, it starts with a routine tissue sample found in any pathology lab. For this study, we used a tissue sample of a lung tumor that was several years old, preserved with formalin and embedded in paraffin wax – the standard method pathologists use to preserve archival tissues.</p>
+
+<p>We were able to extract all this wealth of molecular information from one very thin section of a sample that has been sitting around at room temperature for years. This is pathology 2.0 – not just looking at the cells under a microscope to make a diagnosis, but bringing molecular insight to the clinic.</p>]]></content><author><name></name></author><category term="publication" /><category term="spatial transcriptomics" /><category term="molecular pathology" /><category term="cell–cell communication" /><category term="disease mechanism" /><category term="cancer" /><category term="personalized medicine" /><category term="computational method" /><summary type="html"><![CDATA[Understanding not just what cells are present in a tumor, but where they are located and how they interact with other cells around them – their cellular neighborhoods – can provide detailed insights that help doctors determine which treatments or therapies might be most effective for a specific patient.]]></summary></entry><entry><title type="html">Publication alert: our current thoughts on spatial transcriptomics</title><link href="/blog/pathology-review" rel="alternate" type="text/html" title="Publication alert: our current thoughts on spatial transcriptomics" /><published>2024-10-31T00:00:00+00:00</published><updated>2024-10-31T00:00:00+00:00</updated><id>/blog/pathology-review</id><content type="html" xml:base="/blog/pathology-review"><![CDATA[<h2 id="challenges--opportunities-in-clinical-translation-of-high-resolution-spatial-transcriptomics-st">Challenges &amp; Opportunities in Clinical Translation of High-Resolution Spatial Transcriptomics (ST)</h2>
 
 <p>🧬  Spatial transcriptomics technologies revolutionized our ability to profile gene expression in intact tissue sections at subcellular resolution!</p>
 
@@ -11,19 +53,27 @@ Our thoughts are now out on <a href="https://www.annualreviews.org/content/journ
 
 <p>High-resolution ST technologies work as molecular microscopes, digitalizing gene expression and tissue morphology at subcellular resolution. This enables the interactive exploration of millions of transcripts and their comparison with routine histology and pathologist annotations.</p>
 
-<p><img src="/assets/images/news/pathology-review-figure1.png" alt="Exploring clinical samples with molecular microscopes" width="600" height="auto" /></p>
+<div style="text-align: center;">
+<img src="/assets/images/news/pathology-review-figure1.png" alt="Exploring clinical samples with molecular microscopes" width="600" height="auto" />
+</div>
 
 <p>With high-resolution ST we can study tissue organization in 2D and 3D virtual tissue blocks, analyzing the organization of cells in multicellular niches and identifying which receptor–ligand interactions orchestrate their function in situ.</p>
 
-<p><img src="/assets/images/news/pathology-review-figure2.png" alt="Investigating tissue organization in 2D and 3D virtual tissue blocks" width="600" height="auto" /></p>
+<div style="text-align: center;">
+<img src="/assets/images/news/pathology-review-figure2.png" alt="Investigating tissue organization in 2D and 3D virtual tissue blocks" width="600" height="auto" />
+</div>
 
 <p>In the clinic, spatial biomarkers and patient-specific molecular mechanisms identified by ST hold great potential to inform patient care and help the discovery of novel drug targets, as showcased in early preclinical studies.</p>
 
-<p><img src="/assets/images/news/pathology-review-figure3.png" alt="Clinical applications of high-resolution ST methods" width="600" height="auto" /></p>
+<div style="text-align: center;">
+<img src="/assets/images/news/pathology-review-figure3.png" alt="Clinical applications of high-resolution ST methods" width="600" height="auto" />
+</div>
 
 <p>Several challenges exist to their swift clincal translation: What is the ‘best’ ST method? How do we turn complex molecular data into meaningful insights for patient care? How do we integrate in clinical routines?</p>
 
-<p><img src="/assets/images/news/pathology-review-figure4.png" alt="Current challenges in the clinical translation of high-resolution spatial transcriptomics methods" width="600" height="auto" /></p>
+<div style="text-align: center;">
+<img src="/assets/images/news/pathology-review-figure4.png" alt="Current challenges in the clinical translation of high-resolution spatial transcriptomics methods" width="600" height="auto" />
+</div>
 
 <p>As large-scale clinical studies are urgently needed to link spatial biomarkers with patient outcomes, we discuss key considerations for the design of clinical ST projects from sample preservation and method choice to panel design and power analysis.</p>
 
