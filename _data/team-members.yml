@@ -167,6 +167,16 @@
     twitter:
     linkedin:
     github:
+- name: Joshua Günther
+  email: mailto:joshua.guenther@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: Ph.D. Student
+  social_media:
+    twitter:
+    linkedin:
+    github:
 - name: Marvin Jens
   email: mailto:marvin.jens@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
@@ -199,13 +209,13 @@
     github:
 - name: Paula Leupold
   email: mailto:paula.leupold@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
+  image: /assets/images/team_members/paula.jpg
+  keywords: Neurotropic Viruses, Nanoplastics, Brain Organoids
+  description: I am a PhD student and study how the human brain is impacted by neurotropic virus infection as well as environmental pollutants, such as micro- and nanoplastics. Using human iPSC-derived brain organoids, I want to understand what molecular changes the brain undergoes in response to such foreign agents and what the molecular drivers of disease are. For that I apply classical methods of molecular biology as well as cutting-edge spatial transcriptomics and proteomics approaches.
   position: Ph.D. Student
   social_media:
     twitter:
-    linkedin: 
+    linkedin: "https://www.linkedin.com/in/paula-leupold/"
     github:
 - name: Kamil Lisek
   email: mailto:kamil.lisek@mdc-berlin.de
@@ -221,6 +231,16 @@
   social_media:
     twitter: "https://twitter.com/KamiLisek"
     linkedin: "https://www.linkedin.com/in/kamil-lisek-1ba3aa73/"
+    github:
+- name: Jaden Löbert
+  email: mailto:jaden.loebert@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description:
+  position: Intern
+  social_media:
+    twitter:
+    linkedin: 
     github:
 - name: Tancredi Pentimalli
   email: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
@@ -258,16 +278,6 @@
   keywords: 
   description: 
   position: Ph.D. Student
-  social_media:
-    twitter:
-    linkedin: 
-    github:
-- name: Ilan Theurillat
-  email: mailto:Ilan.Theurillat@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
-  position: Postdoctoral Researcher
   social_media:
     twitter:
     linkedin: 
@@ -316,14 +326,4 @@
   social_media:
     twitter:
     linkedin: 
-    github:
-- name: Mohammad Zardbani
-  email: mailto:mohammad.zardbani@mdc-berlin.de
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  keywords: 
-  description: 
-  position: Postdoctoral Researcher
-  social_media:
-    twitter:
-    linkedin:
     github:
