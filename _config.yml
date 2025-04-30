@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: N. Rajewsky Lab
 # URL for the Image of the Author
-author-image: /assets/images/lab_rensow_2022_small.jpg
+author-image: 
 # 60 Words About the Author
 author-about: Systems Biology of Gene Regulatory Elements
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
