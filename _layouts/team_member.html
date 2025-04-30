@@ -7,7 +7,7 @@ layout: compress
 
 <head>
     {% include head.html %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 </head>
 <div style="background-color: rgb(246, 246, 246);">
 <body>
@@ -27,6 +27,13 @@ layout: compress
                     <a href="{{ page.team_member.email }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
                         <i class="fa fa-envelope fa-3x"></i>
                     </a>
+
+                    {% assign bluesky_url = page.team_member.social_media.bluesky %}
+                    {% if bluesky_url and bluesky_url != "" %}
+                    <a href="{{ bluesky_url }}" target="_blank" class="has-text-black" style="margin: 0 5px;">
+                      <i class="fab fa-bluesky fa-3x"></i>
+                    </a>
+                    {% endif %}
 
                     {% assign twitter_url = page.team_member.social_media.twitter %}
                     {% if twitter_url and twitter_url != "" %}

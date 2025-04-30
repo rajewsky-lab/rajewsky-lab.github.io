@@ -6,6 +6,7 @@
   description: 
   position: Group Leader
   social_media:
+    bluesky:
     twitter: 
     linkedin: 
     github:
@@ -16,6 +17,7 @@
   description: 
   position: Rajewsky Lab Office
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -30,6 +32,7 @@
     / Financial Management of the Laboratory / General Lab Management"
   position: Lab Manager
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -40,6 +43,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -50,6 +54,7 @@
   description: I am involved in various projects, mainly focusing on method development. I provide support in NGS technologies and assist with other lab work related to RNA biology. Additionally, I contribute to the development of lab manager software that I have personally created.
   position: Technical Assistant
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -60,6 +65,7 @@
   description: My PhD research focuses on applying computational biology techniques to analyze spatial transcriptomics and single-cell RNA sequencing data from neuroblastoma tumors. In collaboration with the Charité Pediatric Oncology Unit, we investigate tumor composition and dynamics, particularly within the tumor microenvironment (TME). Our aim is to understand how the TME remodels during relapse and to identify how these changes impact patient outcomes. By uncovering new biomarkers and therapeutic targets, we hope to gain valuable insights toward improving treatments for neuroblastoma.
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin:
     github:
@@ -70,6 +76,7 @@
   description: My PhD focuses on applying high-resolution sequencing technologies to tumors like neuroblastoma and melanoma to understand their complex ecosystems. Tumors comprise diverse cell types and are influenced by the tumor microenvironment (TME), which impacts treatment resistance and metastasis. While single-cell RNA sequencing identifies cell populations, it lacks spatial context, which is addressed by high-resolution spatial transcriptomics. This approach allows us to study cellular interactions and malignant states within the TME, potentially leading to new biomarkers and therapeutic strategies. By investigating neuroblastoma and melanoma samples, our research aims to enhance understanding of the TME and improve treatment outcomes. 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin:
     github:
@@ -99,6 +106,7 @@
                 vitro experimental epilepsy model."
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -109,6 +117,7 @@
   description: 
   position: Technical Assistant
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -119,6 +128,7 @@
   description: I am a molecular neurobiologist at BISMB, where my research focuses on understanding the molecular and cellular mechanisms underlying diseases that affect the nervous system, with a particular emphasis on cancer and neurodegenerative disorders. At BISMB, my current project investigates the toxic effects of nanoplastics on the nervous system, with a specific focus on their potential role in neurodegenerative disorders (Alzheimer’s disease). This work aims to elucidate how environmental pollutants, such as nanoplastics, contribute to the progression of neurological disorders. To tackle these complex research questions, we employ advanced experimental models to explore disease mechanisms and evaluate therapeutic interventions, including 3D cultures (brain organoids) and in vivo systems (Genetically Engineered Mouse Models), alongside cutting-edge single-cell technologies developed in our lab.
   position: Postdoctoral Researcher
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -129,6 +139,7 @@
   description: 
   position: Technical Assistant
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -139,6 +150,7 @@
   description: 
   position: Postdoctoral Researcher
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -154,6 +166,7 @@
                 on cell-to-cell communication."
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -164,6 +177,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin:
     github:
@@ -174,6 +188,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin:
     github:
@@ -184,6 +199,7 @@
   description: I employ my extensive experience in NGS data analysis and background in physics and computational biology to help dissect single cell, spatial, and bulk sequencing data of various flavors to better understand the biology of human diseases. My focus lies on pediatric cancers which are often characterized by relatively low mutational burden and reactivation of embryonic developmental programs, presenting unique challenges and opportunities for therapeutic interventions. I work as bioinformatic coordinator for the pediatric oncology department of the Charité, where I support collaborations between Charité and BIMSB and work closely with the CUBI team at BIH.
   position: Computational Biologist
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -194,7 +210,8 @@
   description:
   position: Senior Scientist
   social_media:
-    twitter: "https://twitter.com/nu_karaiskos"
+    bluesky: "https://nukappa.bsky.social/"
+    twitter:
     linkedin: "https://www.linkedin.com/in/nikos-karaiskos/" 
     github: "https://github.com/nukappa"
 - name: Daniel León Perinán
@@ -204,6 +221,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -214,6 +232,7 @@
   description: I am a PhD student and study how the human brain is impacted by neurotropic virus infection as well as environmental pollutants, such as micro- and nanoplastics. Using human iPSC-derived brain organoids, I want to understand what molecular changes the brain undergoes in response to such foreign agents and what the molecular drivers of disease are. For that I apply classical methods of molecular biology as well as cutting-edge spatial transcriptomics and proteomics approaches.
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: "https://www.linkedin.com/in/paula-leupold/"
     github:
@@ -229,6 +248,7 @@
   single-cell technologies developed in our lab."
   position: Postdoctoral Researcher
   social_media:
+    bluesky:
     twitter: "https://twitter.com/KamiLisek"
     linkedin: "https://www.linkedin.com/in/kamil-lisek-1ba3aa73/"
     github:
@@ -239,6 +259,7 @@
   description:
   position: Intern
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -249,6 +270,7 @@
   description: During my medical studies, I realized the power of computational analyses and cutting-edge single cell technologies to understand disease mechanisms and identify novel therapeutic targets. Now, I am leveraging single cell and spatial transcriptomics data analysis to dissect cell-cell interactions in the tumor microenvironment and identify novel mechanisms of disease progression in TNBC and NSCLC. I love working in an interdisciplinary team, having stimulating discussions and travelling to learn from different perspectives.
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -259,6 +281,7 @@
   description: 
   position: Technical Assistant
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -269,6 +292,7 @@
   description: 
   position: Postdoctoral Researcher
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -279,6 +303,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -289,6 +314,7 @@
   description: 
   position: Technical Assistant
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -299,6 +325,7 @@
   description:
   position: M.Sc. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -314,6 +341,7 @@
   improving the already developed spatial method openST in our lab."
   position: Postdoctoral Researcher
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
@@ -324,6 +352,7 @@
   description: 
   position: Ph.D. Student
   social_media:
+    bluesky:
     twitter:
     linkedin: 
     github:
