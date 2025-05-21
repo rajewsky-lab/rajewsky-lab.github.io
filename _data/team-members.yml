@@ -337,8 +337,14 @@
 - name: Miriam Wandres
   email: mailto:miriam.wandres@mdc-berlin.de
   image: /assets/images/team_members/miriam.jpg
-  keywords: 
-  description: 
+  keywords: Human Brain Organoids, Optogenetics, Genetic Engineering, Gene Regulation
+  description: In the developing brain, precise regulation of WNT signaling pathways is essential for neural
+  progenitor proliferation, patterning, and cell-fate decisions. Our lab is using an optogenetic approach to 
+  manipulate WNT3A activity with spatiotemporal resolution in three-dimensional human brain organoids. By 
+  fusing WNT3A to a light-sensitive protein domain, we can trigger or halt its secretion simply by illuminating 
+  targeted regions—allowing us to dissect how dynamic WNT3A gradients sculpt early neurodevelopmental processes. 
+  This platform provides control over a key morphogen, enabling new insights into human brain patterning and 
+  paving the way for models of WNT-related neurodevelopmental disorders.
   position: Ph.D. Student
   social_media:
     bluesky:
