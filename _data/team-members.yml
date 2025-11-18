@@ -143,6 +143,17 @@
     twitter:
     linkedin:
     github:
+- name: Carmine Carratore
+  email: mailto:Carmine.Carratore@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description: 
+  position: Ph.D. Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
 - name: Cledi Cerda Jara
   email: mailto:cledi.cerdajara@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
@@ -192,6 +203,17 @@
     twitter:
     linkedin:
     github:
+- name: Dana Ishay Ronen
+  email: mailto:Dana.IshayRonen@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description: 
+  position: Ph.D. Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
 - name: Marvin Jens
   email: mailto:marvin.jens@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
@@ -214,6 +236,17 @@
     twitter:
     linkedin: "https://www.linkedin.com/in/nikos-karaiskos/" 
     github: "https://github.com/nukappa"
+- name: Zane Kliesmete
+  email: mailto:zane.kliesmete@mdc-berlin.de
+  image: /assets/images/team_members/zane.jpg
+  keywords: Computational Biology, Evolutionary Genomics, Alternative Splicing, Brain Development, Organoids, Single-cell Long-read Sequencing
+  description: 
+  position: Postdoctoral Researcher
+  social_media:
+    bluesky:
+    twitter:
+    linkedin: 
+    github:
 - name: Daniel León Perinán
   email: mailto:daniel.leonperinan@mdc-berlin.de
   image: /assets/images/team_members/daniel.jpg
@@ -258,6 +291,17 @@
   keywords: 
   description:
   position: Intern
+  social_media:
+    bluesky:
+    twitter:
+    linkedin: 
+    github:
+- name: Elmir Mahammadov
+  email: mailto:Elmir.Mahammadov@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description:
+  position: Postdoctoral Researcher
   social_media:
     bluesky:
     twitter:
@@ -313,17 +357,6 @@
   keywords: 
   description: 
   position: Technical Assistant
-  social_media:
-    bluesky:
-    twitter:
-    linkedin: 
-    github:
-- name: Jan Trendelenburg
-  email: mailto:janEliasFrederic.trendelenburg@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description:
-  position: M.Sc. Student
   social_media:
     bluesky:
     twitter:
