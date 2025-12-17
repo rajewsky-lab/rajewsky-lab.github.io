@@ -41,7 +41,7 @@
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -63,7 +63,7 @@
   image: /assets/images/team_members/florian.jpg
   keywords: Computational Biology, scRNA-seq, Spatial Transcriptomics, Neuroblastoma
   description: My PhD research focuses on applying computational biology techniques to analyze spatial transcriptomics and single-cell RNA sequencing data from neuroblastoma tumors. In collaboration with the Charité Pediatric Oncology Unit, we investigate tumor composition and dynamics, particularly within the tumor microenvironment (TME). Our aim is to understand how the TME remodels during relapse and to identify how these changes impact patient outcomes. By uncovering new biomarkers and therapeutic targets, we hope to gain valuable insights toward improving treatments for neuroblastoma.
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -74,7 +74,7 @@
   image: /assets/images/team_members/svea.jpg
   keywords: Translational Research, Neuroblastoma, Melanoma, Triple Negative Breast Cancer
   description: My PhD focuses on applying high-resolution sequencing technologies to tumors like neuroblastoma and melanoma to understand their complex ecosystems. Tumors comprise diverse cell types and are influenced by the tumor microenvironment (TME), which impacts treatment resistance and metastasis. While single-cell RNA sequencing identifies cell populations, it lacks spatial context, which is addressed by high-resolution spatial transcriptomics. This approach allows us to study cellular interactions and malignant states within the TME, potentially leading to new biomarkers and therapeutic strategies. By investigating neuroblastoma and melanoma samples, our research aims to enhance understanding of the TME and improve treatment outcomes. 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -104,7 +104,7 @@
                 the molecular mechanism through which the network controls glutamatergic release and 
                 comprehend the consequences of this regulatory network in seizure progression with an in 
                 vitro experimental epilepsy model."
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -148,7 +148,7 @@
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -175,7 +175,7 @@
                 microRNAs by targeting their biogenesis machinery. Overall I am studying the impact 
                 of the perturbation on specific cell types, on their differentiation trajectories and 
                 on cell-to-cell communication."
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -186,7 +186,7 @@
   image: /assets/images/team_members/hangxi.jpg
   keywords: Computational Biology, Spatial Transcriptomics, Gene Expression Regulation, RNA Biology
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -197,7 +197,7 @@
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -208,7 +208,7 @@
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: Postdoctoral Researcher
   social_media:
     bluesky:
     twitter:
@@ -252,7 +252,7 @@
   image: /assets/images/team_members/daniel.jpg
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -263,7 +263,7 @@
   image: /assets/images/team_members/paula.jpg
   keywords: Neurotropic Viruses, Nanoplastics, Brain Organoids
   description: I am a PhD student and study how the human brain is impacted by neurotropic virus infection as well as environmental pollutants, such as micro- and nanoplastics. Using human iPSC-derived brain organoids, I want to understand what molecular changes the brain undergoes in response to such foreign agents and what the molecular drivers of disease are. For that I apply classical methods of molecular biology as well as cutting-edge spatial transcriptomics and proteomics approaches.
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -307,12 +307,23 @@
     twitter:
     linkedin: 
     github:
+- name: Anulia Mykhaelian
+  email: mailto:anulia.mykhaelian@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: MSc Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
 - name: Tancredi Pentimalli
   email: mailto:TancrediMassimo.Pentimalli@mdc-berlin.de
   image: /assets/images/team_members/tancredi.jpg
   keywords: Single-cell & Spatial Transcriptomics, Tumor Microenvironment, Brain Organoids, Disease Mechanisms
   description: During my medical studies, I realized the power of computational analyses and cutting-edge single cell technologies to understand disease mechanisms and identify novel therapeutic targets. Now, I am leveraging single cell and spatial transcriptomics data analysis to dissect cell-cell interactions in the tumor microenvironment and identify novel mechanisms of disease progression in TNBC and NSCLC. I love working in an interdisciplinary team, having stimulating discussions and travelling to learn from different perspectives.
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -345,7 +356,7 @@
   image: /assets/images/team_members/leon.jpg
   keywords: 
   description: 
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
@@ -389,7 +400,7 @@
   targeted regions—allowing us to dissect how dynamic WNT3A gradients sculpt early neurodevelopmental processes. 
   This platform provides control over a key morphogen, enabling new insights into human brain patterning and 
   paving the way for models of WNT-related neurodevelopmental disorders."
-  position: Ph.D. Student
+  position: PhD Student
   social_media:
     bluesky:
     twitter:
