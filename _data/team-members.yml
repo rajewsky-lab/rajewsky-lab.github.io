@@ -2,13 +2,22 @@
 - name: Nikolaus Rajewsky
   image: /assets/images/team_members/nikolaus.jpg
   email: mailto:rajewsky@mdc-berlin.de
-  keywords: 
-  description: 
+  keywords: Systems Biology, Biochemistry, Data Science
+  description: >
+   <p><a href="/assets/Nikolaus_Rajewsky_CV.pdf">Curriculum Vitae</a></p>
+   <br>
+   <p>Nikolaus Rajewsky is a globally recognized leader in Systems Biology, renowned for groundbreaking work on the role of RNA in regulating gene expression in health and disease. His research blends cutting-edge experimental biology, biochemistry, and data science, including machine learning. He has pioneered single-cell and spatial biology approaches, applying them to human tissues and advanced model systems to better understand, predict, and intercept disease trajectories.</p>
+   <br>
+   <p>In 2008 he founded and since then chaired/directs the Berlin Institute for Medical Systems Biology (MDC-BIMSB) as a strategic expansion of the MDC. He chaired the international recruitment of ~30 group leaders at BIMSB. MDC-BIMSB scientists use a combination of innovative experimental and computational approaches to understand and integrate different levels of gene regulation, ranging from DNA 3D conformation to cell-cell communication. Rajewsky and colleagues have built an interdisciplinary environment where these multi-scale insights are frequently translated into new diagnostic and therapeutic strategies, often in collaboration with the Charité Hospital.</p>
+   <br>
+   <p>
+   His work has earned him global recognition, and a h-index of 92 with over 80,000 citations (“Highly cited researcher”, Clarivate). He delivered hundreds of invited lectures, including 19 keynotes in the past five years. He is an elected member of EMBO, the German National Academy of Sciences (Leopoldina), and the Berlin–Brandenburg Academy of Sciences. He has received the most prestigious German Research award, the Gottfried Wilhelm Leibniz Award.
+   </p>
   position: Group Leader
   social_media:
     bluesky:
     twitter: 
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/nikolaus-rajewsky-9614b832b/
     github:
 - name: Alex Tschernycheff
   email: mailto:tschernycheff@mdc-berlin.de
