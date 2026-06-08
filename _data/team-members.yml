@@ -174,17 +174,12 @@
     twitter:
     linkedin: 
     github:
-- name: Lisa Emmenegger
-  email: mailto:lisa.emmenegger@mdc-berlin.de
-  image: /assets/images/team_members/lisa.jpg
-  keywords: Genetic Engineering, hiPSCs, Brain Organoids, microRNAs, Gene Regulation
-  description: "I am a PhD student interested in studying the importance of microRNAs in regulating
-                the early development of the human brain. To infer microRNAs function at different 
-                developmental times, I use brain organoids as a model system: herein I perturb 
-                microRNAs by targeting their biogenesis machinery. Overall I am studying the impact 
-                of the perturbation on specific cell types, on their differentiation trajectories and 
-                on cell-to-cell communication."
-  position: PhD Student
+- name: Tasneem Cheytan Haas
+  email: mailto:tasneem.cheytanhaas@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
+  keywords: 
+  description: 
+  position: Postdoctoral Researcher
   social_media:
     bluesky:
     twitter:
@@ -196,6 +191,17 @@
   keywords: Computational Biology, Spatial Transcriptomics, Gene Expression Regulation, RNA Biology
   description: 
   position: PhD Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
+- name: Finn Funk
+  email: mailto:finn.funk@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: MSc Student
   social_media:
     bluesky:
     twitter:
@@ -215,9 +221,9 @@
 - name: Dana Ishay Ronen
   email: mailto:Dana.IshayRonen@mdc-berlin.de
   image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
+  keywords: Cell plasticity, Cell differentiation
   description: 
-  position: Postdoctoral Researcher
+  position: Guest Senior Scientist
   social_media:
     bluesky:
     twitter:
@@ -319,6 +325,17 @@
 - name: Anulia Mykhaelian
   email: mailto:anulia.mykhaelian@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: MSc Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
+- name: Alexandra Nessar
+  email: mailto:alexandra.nessar@mdc-berlin.de
+  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
   keywords: 
   description: 
   position: MSc Student
