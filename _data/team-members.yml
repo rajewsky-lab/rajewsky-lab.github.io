@@ -176,9 +176,9 @@
     github:
 - name: Tasneem Cheytan Haas
   email: mailto:tasneem.cheytanhaas@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
-  description: 
+  image: /assets/images/team_members/tasneem.jpeg
+  keywords: Cancer biology, Patient-derived models, Single-cell & Spatial transcriptomics
+  description: I am a cancer researcher with a particular interest in understanding the earliest stages of cancer development as well as dissecting host-wide factors which shape tumor initiation and progression. By integrating high-resolution molecular profiling with functional model systems, I aim to uncover systemic interactions and regulatory mechanisms which drive cancer emergence and evolution.
   position: Postdoctoral Researcher
   social_media:
     bluesky:
@@ -368,8 +368,8 @@
     github:
 - name: Flavia Scoyni
   email: mailto:flavia.scoyni@mdc-berlin.de
-  image: https://www.mdc-berlin.de/system/files/styles/mdc_teaser_3_mdc_phablet_2x/private/2023-05/MDC_Okt%202017_3314.jpg?h=2df27fc9&itok=gmo504_0
-  keywords: 
+  image: /assets/images/team_members/flavia.jpg
+  keywords: Neurological disease, Neuronal stress response, Non-coding RNAs, Gene regulation, Translational neuroscience
   description: 
   position: Postdoctoral Researcher
   social_media:
