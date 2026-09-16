@@ -211,6 +211,17 @@
     twitter:
     linkedin:
     github:
+- name: Roy Friedman
+  email: mailto:roy.friedman@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: Postdoctoral Researcher
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
 - name: Finn Funk
   email: mailto:finn.funk@mdc-berlin.de
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
@@ -257,7 +268,7 @@
     github:
 - name: Nikos Karaiskos
   email: mailto:nikolaos.karaiskos@mdc-berlin.de
-  image: /assets/images/team_members/nikos.jpg
+  image: /assets/images/team_members/nikos.webp
   keywords: scRNA-seq, Spatial Transcriptomics, Methods Development
   description:
   position: Senior Scientist
@@ -414,6 +425,17 @@
     twitter:
     linkedin: 
     github:
+- name: Tatjana Tomek
+  email: mailto:tatjana.tomek@mdc-berlin.de
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  keywords: 
+  description: 
+  position: PhD Student
+  social_media:
+    bluesky:
+    twitter:
+    linkedin:
+    github:
 - name: Sofia Trocchianesi
   email: mailto:sofia.trocchianesi@mdc-berlin.de
   image: /assets/images/team_members/sofia.jpeg
@@ -425,23 +447,6 @@
   developing a spatial transcriptomic method to analyse both bacteria and host transcriptomic, 
   improving the already developed spatial method openST in our lab."
   position: Postdoctoral Researcher
-  social_media:
-    bluesky:
-    twitter:
-    linkedin: 
-    github:
-- name: Miriam Wandres
-  email: mailto:miriam.wandres@mdc-berlin.de
-  image: /assets/images/team_members/miriam.jpg
-  keywords: Human Brain Organoids, Optogenetics, Genetic Engineering, Gene Regulation
-  description: "In the developing brain, precise regulation of WNT signaling pathways is essential for neural
-  progenitor proliferation, patterning, and cell-fate decisions. Our lab is using an optogenetic approach to 
-  manipulate WNT3A activity with spatiotemporal resolution in three-dimensional human brain organoids. By 
-  fusing WNT3A to a light-sensitive protein domain, we can trigger or halt its secretion simply by illuminating 
-  targeted regions—allowing us to dissect how dynamic WNT3A gradients sculpt early neurodevelopmental processes. 
-  This platform provides control over a key morphogen, enabling new insights into human brain patterning and 
-  paving the way for models of WNT-related neurodevelopmental disorders."
-  position: PhD Student
   social_media:
     bluesky:
     twitter:
